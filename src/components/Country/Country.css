@@ -4,3 +4,12 @@
   margin: 15px;
   border-radius: 15px;
 }
+
+img{
+  height: 150px;
+  width: 300px;
+}
+
+.visited{
+  background-color: darkgreen;
+}
